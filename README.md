@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mert 
+# Hi, I'm Mert 
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&vCenter=true&width=450&lines=Building+Automation+Tools;Auditing+Networks;Exploring+OSINT+Pipelines" alt="Typing SVG" />
