@@ -8,6 +8,9 @@
 
 ### 🌐 Top Projects & Tools
 
+#### 📱 Applications & Development
+*   **[Oxine](https://github.com/oxineapp/oxine)** – (Developer) A modern, high-performance menubar application built for seamless user experience and efficiency.
+
 #### 🛠️ OSINT & Automation
 *   **[CORAL](https://github.com/Sha-Dox/coral)** – **Centralised OSINT Repository and Automation Layer.** A hub designed to aggregate and automate data pipelines.
 *   **[project-iris](https://github.com/Sha-Dox/project-iris)** – **Project Iris.** A monitoring platform built to track and analyze metadata updates in real time.
@@ -31,8 +34,4 @@
 
 ### 📊 Ecosystem Breakdown
 
-```text
-Go           ████████████████████████░░░░░░░░░░  70%
-Python       ██████████████░░░░░░░░░░░░░░░░░░░░  40%
-TypeScript   ████████░░░░░░░░░░░░░░░░░░░░░░░░░░  25%
-Shell/Bash   ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  10%
+![Repository Language Density](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sha-Dox&theme=tokyonight)
